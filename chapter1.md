@@ -24,5 +24,11 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Coding Explained](https://www.youtube.com/watch?v=Ngff3wuZCR0&list=PLlg3hnqqh7qEGtq1Ry64TTbGFbQbXuJJt)
 
+[Traversy media - Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
+
+
+
+
+
 
 
