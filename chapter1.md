@@ -26,9 +26,7 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Traversy media - Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
 
-
-
-
+[Traversy media - Vue js Customer Manager App Frontend](https://www.youtube.com/watch?v=IUgstalu6zo)
 
 
 
