@@ -1,8 +1,21 @@
 ### Install - Create project
 
-
-
 **I can see there is **_**different ways to start**_** a project.**
+
+The amazing thing it's that this is simple...
+
+You can just Bring vue into a script and start using it on the next one!
+
+```
+<script src="vue.js"></script>
+<script>
+  new Vue ({
+   // ...
+  })
+</script> 
+```
+
+
 
 If you want something quick to test you may want to try a plunker, jsfiddle, codepen, jsbin... etc
 
@@ -11,8 +24,6 @@ If you want something quick to test you may want to try a plunker, jsfiddle, cod
 [Codepen](https://codepen.io/Zurc/pen/qjoXWK)
 
 [JSBin](http://jsbin.com/biroyuk/edit?html,js,output)
-
-
 
 **From your editor**
 
@@ -23,8 +34,6 @@ CDN: [https://unpkg.com/vue](https://unpkg.com/vue)
 **CLI**
 
 You may want to start straight away using something like [vue CLI](https://github.com/vuejs/vue-cli)
-
-
 
 **From scratch**
 
