@@ -10,6 +10,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Laracasts: Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)    Another great resource, full of episodes to digest...
 
+[Getting Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/)    on Sitepoint
+
 ##### Some youtube videos I've found...
 
 [Academind - Vue.js 2 - Getting Started](https://www.gitbook.com/book/zurc/vue-journey/edit#)    Playlist... great explanations
@@ -27,6 +29,4 @@ Where to start? references? something easy to understand?... well, all we have d
 [Traversy media - Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
 
 [Traversy media - Vue js Customer Manager App Frontend](https://www.youtube.com/watch?v=IUgstalu6zo)
-
-
 
