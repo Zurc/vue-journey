@@ -49,7 +49,13 @@ var VueMaterial = require('vue-material')
 Vue.use(VueMaterial)
 ```
 
+[JSFiddle](https://jsfiddle.net/CruzJT/5j448rh7/3/)    // starter
+
+A couple of examples found on codepen
+
+[https://codepen.io/ojanpohja/pen/jBMrRp](https://codepen.io/ojanpohja/pen/jBMrRp)
+
+[https://codepen.io/MrHen/pen/JWBazw](https://codepen.io/MrHen/pen/JWBazw)
 
 
-[JSFiddle](https://jsfiddle.net/CruzJT/5j448rh7/3/)
 
