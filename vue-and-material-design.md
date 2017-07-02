@@ -8,8 +8,6 @@ some references:
 
 [Vuetify.js](https://vuetifyjs.com/)
 
-
-
 Let's build some basic web with Vue and material \( I'll call the project vmweb \)
 
 ```
@@ -36,5 +34,5 @@ npm install --save vue-material
 <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet" type="text/css">
 ```
 
-
+[JSFiddle](https://jsfiddle.net/CruzJT/5j448rh7/3/)
 
