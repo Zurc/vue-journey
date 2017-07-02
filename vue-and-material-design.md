@@ -34,5 +34,22 @@ npm install --save vue-material
 <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet" type="text/css">
 ```
 
+From CDN
+
+[Javascript](https://unpkg.com/vue-material)
+
+[CSS](https://unpkg.com/vue-material/dist/vue-material.css)
+
+use the whole library
+
+```
+var Vue = require('vue')
+var VueMaterial = require('vue-material')
+
+Vue.use(VueMaterial)
+```
+
+
+
 [JSFiddle](https://jsfiddle.net/CruzJT/5j448rh7/3/)
 
