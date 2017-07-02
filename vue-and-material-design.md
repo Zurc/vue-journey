@@ -15,7 +15,7 @@ Let's build some basic web with Vue and material \( I'll call the project vmweb 
 vue init webpack vmweb
 
 // Get into the project and install packages
-cs vmweb
+cd vmweb
 npm install
 
 // run it
