@@ -6,7 +6,7 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Vue V2 Documentation](https://vuejs.org/v2/guide/)    this is a great way to start, to know what is Vue, look how to install it... and so on.
 
-[Develop Basic Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js)    Very quick overview, short videos with loads of content on them.
+[Egghed.io: Develop Basic Web Apps with Vue.js](https://egghead.io/courses/develop-web-apps-with-vue-js)    Very quick overview, short videos with loads of content on them.
 
 [Laracasts: Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)    Another great resource, full of episodes to digest...
 
@@ -16,6 +16,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Academind - Vue.js 2 - Getting Started](https://www.gitbook.com/book/zurc/vue-journey/edit#)    Playlist... great explanations
 
+[The NetNinja: Vue JS 2 Tutorial](https://www.gitbook.com/book/zurc/vue-journey/edit#)    Playlist
+
 [CodingTheSmartWay - Vue.js 2 & Firebase - Building Real Time Single Page Web Applications](https://www.youtube.com/watch?v=we4zuQIXmnw)
 
 [CodingTheSmartWay - Using Material Design with Vue.js 2](https://www.youtube.com/watch?v=1j8xTOmR8pw)
@@ -24,9 +26,11 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Dev Coffee - \[2017\] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0](https://www.youtube.com/watch?v=VPUdtEf3oXI)
 
-[Coding Explained](https://www.youtube.com/watch?v=Ngff3wuZCR0&list=PLlg3hnqqh7qEGtq1Ry64TTbGFbQbXuJJt)
+[Coding Explained: Vue.js](https://www.youtube.com/watch?v=Ngff3wuZCR0&list=PLlg3hnqqh7qEGtq1Ry64TTbGFbQbXuJJt)    Playlist
 
 [Traversy media - Vue.js 2.0 In 60 Minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
 
 [Traversy media - Vue js Customer Manager App Frontend](https://www.youtube.com/watch?v=IUgstalu6zo)
+
+[DevHelpSource: An Introduction into Vue.js: Building an Example App](https://www.youtube.com/watch?v=Oqs3Iuid8-8)
 
