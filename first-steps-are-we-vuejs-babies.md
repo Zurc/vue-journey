@@ -46,3 +46,5 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://jonathanmh.com/building-singe-page-app-vue-js-tutorial/](https://jonathanmh.com/building-singe-page-app-vue-js-tutorial/)
 
+[http://vuejsdevelopers.com/2017/06/25/vue-conf-2017/](http://vuejsdevelopers.com/2017/06/25/vue-conf-2017/)
+
