@@ -4,3 +4,5 @@
 
 [https://alligator.io/vuejs/roundup-desktop-components/](https://alligator.io/vuejs/roundup-desktop-components/)    Desktop Webapp component libraries
 
+https://vue-loader.vuejs.org/en/start/spec.html
+

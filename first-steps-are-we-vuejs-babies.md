@@ -34,3 +34,7 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [DevHelpSource: An Introduction into Vue.js: Building an Example App](https://www.youtube.com/watch?v=Oqs3Iuid8-8)
 
+[Phoenix Javascript - Learning Vue](https://www.youtube.com/watch?v=M2tCDTrrndg) 
+
+
+
