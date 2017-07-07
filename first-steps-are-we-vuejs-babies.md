@@ -12,7 +12,7 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Getting Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/)    on Sitepoint
 
-
+[Vue.js repo](https://github.com/vuejs/vue)
 
 ##### Some youtube videos I've found...
 
@@ -44,7 +44,5 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://vuejsfeed.com/blog/forum-made-with-laravel-and-vue-js](https://vuejsfeed.com/blog/forum-made-with-laravel-and-vue-js)    // how it was made. Vuejsfeed it's good for all related to Vue
 
-
-
-
+[https://jonathanmh.com/building-singe-page-app-vue-js-tutorial/](https://jonathanmh.com/building-singe-page-app-vue-js-tutorial/)
 
