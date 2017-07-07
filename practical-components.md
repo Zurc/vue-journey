@@ -4,5 +4,49 @@
 
 [https://alligator.io/vuejs/roundup-desktop-components/](https://alligator.io/vuejs/roundup-desktop-components/)    Desktop Webapp component libraries
 
-https://vue-loader.vuejs.org/en/start/spec.html
+---
+
+As far as I know there is two totally different ways to create a component
+
+The original way:
+
+```
+Vue.component('component-name', {
+    template: ...
+    data: ...
+    ...
+}
+```
+
+...and by using vue-loader as a \*.vue file...
+
+```
+<template>
+  <div class="example">{{ msg }}</div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      msg: 'Hello world!'
+    }
+  }
+}
+</script>
+
+<style>
+.example {
+  color: red;
+}
+</style>
+```
+
+
+
+
+
+
+
+[https://vue-loader.vuejs.org/en/start/spec.html](https://vue-loader.vuejs.org/en/start/spec.html)
 
