@@ -12,6 +12,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Getting Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/)    on Sitepoint
 
+
+
 ##### Some youtube videos I've found...
 
 [Academind - Vue.js 2 - Getting Started](https://www.gitbook.com/book/zurc/vue-journey/edit#)    Playlist... great explanations
@@ -34,7 +36,15 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [DevHelpSource: An Introduction into Vue.js: Building an Example App](https://www.youtube.com/watch?v=Oqs3Iuid8-8)
 
-[Phoenix Javascript - Learning Vue](https://www.youtube.com/watch?v=M2tCDTrrndg) 
+[Phoenix Javascript - Learning Vue](https://www.youtube.com/watch?v=M2tCDTrrndg)
+
+**Several**
+
+[https://forum.vuejs.org/](https://forum.vuejs.org/)
+
+[https://vuejsfeed.com/blog/forum-made-with-laravel-and-vue-js](https://vuejsfeed.com/blog/forum-made-with-laravel-and-vue-js)    // how it was made. Vuejsfeed it's good for all related to Vue
+
+
 
 
 

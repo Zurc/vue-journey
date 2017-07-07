@@ -42,11 +42,15 @@ export default {
 </style>
 ```
 
-
-
-
-
-
-
 [https://vue-loader.vuejs.org/en/start/spec.html](https://vue-loader.vuejs.org/en/start/spec.html)
+
+
+
+ERRORS and solution
+
+[struggling loading vue-material components](https://forum.vuejs.org/t/struggling-loading-vue-material-components-the-first-time/11018/2)
+
+[Unknown custom element](https://forum-archive.vuejs.org/topic/2036/component-inside-component-unknown-custom-element-error-vueify/4)
+
+
 
