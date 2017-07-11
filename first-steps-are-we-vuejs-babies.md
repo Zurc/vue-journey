@@ -40,6 +40,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Program with Erik](https://www.youtube.com/watch?v=NT3OxvS7McU)     Playlist
 
+[Coding artist - Vue.js and animations](https://www.youtube.com/watch?v=LhAiywUBwFQ)    Playlist
+
 **Several**
 
 [https://forum.vuejs.org/](https://forum.vuejs.org/)
@@ -51,4 +53,6 @@ Where to start? references? something easy to understand?... well, all we have d
 [http://vuejsdevelopers.com/2017/06/25/vue-conf-2017/](http://vuejsdevelopers.com/2017/06/25/vue-conf-2017/)
 
 [https://www.manning.com/books/vue-js-in-action](https://www.manning.com/books/vue-js-in-action)    // book by Erik Hanchett
+
+
 
