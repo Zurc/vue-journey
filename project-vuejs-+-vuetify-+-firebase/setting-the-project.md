@@ -16,7 +16,7 @@ $  vue init vuetifyjs/webpack-advanced
 
 There is a few options offered to complete and choose for your project. Choose whatever is more convenient for you.
 
-cd into your project folder and run 
+cd into your project folder and run
 
 ```
 npm install
@@ -33,6 +33,10 @@ That's it, done!
 --
 
 You can see a good starting project setup on your browser
+
+![](/assets/Screen Shot 2017-07-13 at 23.01.43.png)
+
+
 
 If you open the project from you editor you'll see a normal vue-webpack structure with some already shipped components...
 
