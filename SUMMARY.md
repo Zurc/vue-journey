@@ -11,3 +11,7 @@
 * [Practical components](practical-components.md)
 * [Nested Components](components.md)
 
+## Project - Vue.js + Vuetify + Firebase
+
+* [Setting the project](project-vuejs-+-vuetify-+-firebase/setting-the-project.md)
+
