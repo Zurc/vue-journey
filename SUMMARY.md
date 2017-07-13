@@ -1,7 +1,8 @@
 # Summary
 
+## Vue Journey
+
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [References](first-steps-are-we-vuejs-babies.md)
 * [Install - Create project](install-create-project.md)
 * [Vue and Material Design](vue-and-material-design.md)
