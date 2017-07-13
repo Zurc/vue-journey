@@ -2,6 +2,8 @@
 
 By creating your own components your app could be much more semantic and understandable...
 
+If  you write some code using &lt;ul&gt; and &lt;li&gt; tags someone who come later could be lost... if, instead, we write using tags like &lt;task-list&gt; and &lt;task&gt; that is much more easy to understand, right?
+
 Let's see an example:
 
 ```
@@ -31,8 +33,4 @@ new Vue({
 ```
 
 [JSFiddle](https://jsfiddle.net/CruzJT/uyL0kxvm/2/)
-
-
-
-
 
