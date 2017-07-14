@@ -16,7 +16,9 @@ e.g. lets add a toolbar, this is as simple as writing...
 <toolbar></toolbar>
 ```
 
-You'll find all the components and demo code in their page.
+Now we can add title, icons, list items... etc inside that toolbar
+
+If you want to learn more you'll find all the components and demo code in their page.
 
 #### Example
 
