@@ -1,5 +1,7 @@
 ### Setting the project
 
+This project is following this Academind great tutorial
+
 Let's start by going to [Vuetify.js](https://vuetifyjs.com/) a package that implements **material design for VueJS.**
 
 Follow 'get started' call to action button
@@ -35,8 +37,6 @@ That's it, done!
 You can see a good starting project setup on your browser
 
 ![](/assets/Screen Shot 2017-07-13 at 23.01.43.png)
-
-
 
 If you open the project from you editor you'll see a normal vue-webpack structure with some already shipped components...
 

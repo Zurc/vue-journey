@@ -48,6 +48,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://docs.google.com/presentation/...](https://docs.google.com/presentation/d/1Sldx4p0NdNQvc4xJzRnvq8USbYROit7B3uDbF2iGmF0/edit?pageId=116230009694779137033#slide=id.g1e6b7fa148_0_56)    - Slides From Conference \([Wrocław, Poland](https://conf.vuejs.org/), 2017\)
 
+[https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)    - videos from Vue conference
+
 **Several**
 
 [https://forum.vuejs.org/](https://forum.vuejs.org/)
@@ -61,6 +63,4 @@ Where to start? references? something easy to understand?... well, all we have d
 [https://www.manning.com/books/vue-js-in-action](https://www.manning.com/books/vue-js-in-action)    // book by Erik Hanchett
 
 [https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example](https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example)    // Coursetro
-
-
 
