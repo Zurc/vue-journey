@@ -54,5 +54,5 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://www.manning.com/books/vue-js-in-action](https://www.manning.com/books/vue-js-in-action)    // book by Erik Hanchett
 
-
+[https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example](https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example)    // Coursetro
 
