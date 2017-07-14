@@ -50,6 +50,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)    - videos from Vue conference
 
+[https://www.youtube.com/watch?v=5LYrN\_cAJoA](https://www.youtube.com/watch?v=5LYrN_cAJoA)     - Playlist The Net Ninja
+
 **Several**
 
 [https://forum.vuejs.org/](https://forum.vuejs.org/)
