@@ -52,6 +52,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://www.youtube.com/watch?v=5LYrN\_cAJoA](https://www.youtube.com/watch?v=5LYrN_cAJoA&list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)     - Playlist The Net Ninja
 
+[https://www.youtube.com/watch?v=2pZqCA1nT3I](https://www.youtube.com/watch?v=2pZqCA1nT3I) - A Chat Application with Socket.io and Vue.js
+
 **Several**
 
 [https://forum.vuejs.org/](https://forum.vuejs.org/)
@@ -65,4 +67,6 @@ Where to start? references? something easy to understand?... well, all we have d
 [https://www.manning.com/books/vue-js-in-action](https://www.manning.com/books/vue-js-in-action)    // book by Erik Hanchett
 
 [https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example](https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example)    // Coursetro
+
+
 
