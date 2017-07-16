@@ -68,5 +68,5 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example](https://coursetro.com/courses/14/React-vs-Angular-vs-Vue-by-Example)    // Coursetro
 
-
+[https://alligator.io/vuejs/](https://alligator.io/vuejs/)
 
