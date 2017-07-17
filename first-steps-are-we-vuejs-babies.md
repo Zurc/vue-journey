@@ -70,3 +70,5 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [https://alligator.io/vuejs/](https://alligator.io/vuejs/)
 
+[https://css-tricks.com/intro-to-vue-1-rendering-directives-events/](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+
