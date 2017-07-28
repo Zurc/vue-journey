@@ -18,6 +18,8 @@ Where to start? references? something easy to understand?... well, all we have d
 
 [Academind - Vue.js 2 - Getting Started](https://www.gitbook.com/book/zurc/vue-journey/edit#)    Playlist... great explanations
 
+[Academind - Vuex] (https://www.youtube.com/watch?v=2CSr2vBApSI&list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)    Playlist
+
 [The NetNinja: Vue JS 2 Tutorial](https://www.gitbook.com/book/zurc/vue-journey/edit#)    Playlist
 
 [CodingTheSmartWay - Vue.js 2 & Firebase - Building Real Time Single Page Web Applications](https://www.youtube.com/watch?v=we4zuQIXmnw)
